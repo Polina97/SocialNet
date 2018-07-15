@@ -1,1 +1,1 @@
-# SocialNet
+# Test project for pdp
